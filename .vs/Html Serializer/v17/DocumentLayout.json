@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA- \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D5\u0027\\practicode\\Html Serializer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F031431-002A-4D45-B311-3DF53BACF241}|Html Serializer\\Html Serializer.csproj|d:\\\u05EA\u05DB\u05E0\u05D5\u05EA- \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D5\u0027\\practicode\\html serializer\\html serializer\\selector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F031431-002A-4D45-B311-3DF53BACF241}|Html Serializer\\Html Serializer.csproj|solutionrelative:html serializer\\selector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F031431-002A-4D45-B311-3DF53BACF241}|Html Serializer\\Html Serializer.csproj|d:\\\u05EA\u05DB\u05E0\u05D5\u05EA- \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D5\u0027\\practicode\\html serializer\\html serializer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F031431-002A-4D45-B311-3DF53BACF241}|Html Serializer\\Html Serializer.csproj|solutionrelative:html serializer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F031431-002A-4D45-B311-3DF53BACF241}|Html Serializer\\Html Serializer.csproj|d:\\\u05EA\u05DB\u05E0\u05D5\u05EA- \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D5\u0027\\practicode\\html serializer\\html serializer\\htmlelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F031431-002A-4D45-B311-3DF53BACF241}|Html Serializer\\Html Serializer.csproj|solutionrelative:html serializer\\htmlelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F031431-002A-4D45-B311-3DF53BACF241}|Html Serializer\\Html Serializer.csproj|d:\\\u05EA\u05DB\u05E0\u05D5\u05EA- \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D5\u0027\\practicode\\html serializer\\html serializer\\htmlhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F031431-002A-4D45-B311-3DF53BACF241}|Html Serializer\\Html Serializer.csproj|solutionrelative:html serializer\\htmlhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Selector.cs",
+              "DocumentMoniker": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA- \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D5\u0027\\practicode\\Html Serializer\\Html Serializer\\Selector.cs",
+              "RelativeDocumentMoniker": "Html Serializer\\Selector.cs",
+              "ToolTip": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA- \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D5\u0027\\practicode\\Html Serializer\\Html Serializer\\Selector.cs",
+              "RelativeToolTip": "Html Serializer\\Selector.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAA0wBIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T14:36:42.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HtmlElement.cs",
+              "DocumentMoniker": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA- \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D5\u0027\\practicode\\Html Serializer\\Html Serializer\\HtmlElement.cs",
+              "RelativeDocumentMoniker": "Html Serializer\\HtmlElement.cs",
+              "ToolTip": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA- \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D5\u0027\\practicode\\Html Serializer\\Html Serializer\\HtmlElement.cs",
+              "RelativeToolTip": "Html Serializer\\HtmlElement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T19:23:04.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA- \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D5\u0027\\practicode\\Html Serializer\\Html Serializer\\Program.cs",
+              "RelativeDocumentMoniker": "Html Serializer\\Program.cs",
+              "ToolTip": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA- \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D5\u0027\\practicode\\Html Serializer\\Html Serializer\\Program.cs",
+              "RelativeToolTip": "Html Serializer\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T18:57:11.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HtmlHelper.cs",
+              "DocumentMoniker": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA- \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D5\u0027\\practicode\\Html Serializer\\Html Serializer\\HtmlHelper.cs",
+              "RelativeDocumentMoniker": "Html Serializer\\HtmlHelper.cs",
+              "ToolTip": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA- \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D5\u0027\\practicode\\Html Serializer\\Html Serializer\\HtmlHelper.cs",
+              "RelativeToolTip": "Html Serializer\\HtmlHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T19:25:46.108Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+D:\תכנות- לימודים\ו'\practicode\Html Serializer\Html Serializer\bin\Debug\net8.0\Html Serializer.exe
+D:\תכנות- לימודים\ו'\practicode\Html Serializer\Html Serializer\bin\Debug\net8.0\Html Serializer.deps.json
+D:\תכנות- לימודים\ו'\practicode\Html Serializer\Html Serializer\bin\Debug\net8.0\Html Serializer.runtimeconfig.json
+D:\תכנות- לימודים\ו'\practicode\Html Serializer\Html Serializer\bin\Debug\net8.0\Html Serializer.dll
+D:\תכנות- לימודים\ו'\practicode\Html Serializer\Html Serializer\bin\Debug\net8.0\Html Serializer.pdb
+D:\תכנות- לימודים\ו'\practicode\Html Serializer\Html Serializer\obj\Debug\net8.0\Html Serializer.GeneratedMSBuildEditorConfig.editorconfig
+D:\תכנות- לימודים\ו'\practicode\Html Serializer\Html Serializer\obj\Debug\net8.0\Html Serializer.AssemblyInfoInputs.cache
+D:\תכנות- לימודים\ו'\practicode\Html Serializer\Html Serializer\obj\Debug\net8.0\Html Serializer.AssemblyInfo.cs
+D:\תכנות- לימודים\ו'\practicode\Html Serializer\Html Serializer\obj\Debug\net8.0\Html Serializer.csproj.CoreCompileInputs.cache
+D:\תכנות- לימודים\ו'\practicode\Html Serializer\Html Serializer\obj\Debug\net8.0\Html Serializer.dll
+D:\תכנות- לימודים\ו'\practicode\Html Serializer\Html Serializer\obj\Debug\net8.0\refint\Html Serializer.dll
+D:\תכנות- לימודים\ו'\practicode\Html Serializer\Html Serializer\obj\Debug\net8.0\Html Serializer.pdb
+D:\תכנות- לימודים\ו'\practicode\Html Serializer\Html Serializer\obj\Debug\net8.0\Html Serializer.genruntimeconfig.cache
+D:\תכנות- לימודים\ו'\practicode\Html Serializer\Html Serializer\obj\Debug\net8.0\ref\Html Serializer.dll
+D:\תכנות- לימודים\ו'\practicode\Html Serializer\Html Serializer\bin\Debug\net8.0\HtmlTags.json
+D:\תכנות- לימודים\ו'\practicode\Html Serializer\Html Serializer\bin\Debug\net8.0\HtmlVoidTags.json
